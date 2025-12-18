@@ -1,0 +1,13 @@
+# C/C++ Compiled binaries
+*.exe
+*.o
+*.obj
+*.out
+
+# JetBrains / CLion
+.idea/
+cmake-build-debug/
+
+# OS generated files
+.DS_Store
+Thumbs.db
