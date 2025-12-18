@@ -26,13 +26,19 @@ Supervised by:
 * Dr. Hossein Zeynali
 
 ## 📸 Preview
-![Login Screenshot](.\resources\Pac-Man1.png)
-![Level Screenshot](.\resources\Pac-Man2.png)
+
+![Login Screenshot](\resources\Pac-Man1.png)
+
+
+![Level Screenshot](\resources\Pac-Man2.png)
 ## Map
-![Map1 Screenshot](.\resources\Pac-Man3.png)
-![Map2 Screenshot](.\resources\Pac-Man4.png)
+
+![Map1 Screenshot](\resources\Pac-Man3.png)
+
+
+![Map2 Screenshot](\resources\Pac-Man4.png)
 ## Game Over
-![Game Over Screenshot](.\resources\Pac-Man5.png)
+![Game Over Screenshot](\resources\Pac-Man5.png)
 
 
 
