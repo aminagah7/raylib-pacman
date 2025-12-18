@@ -1,7 +1,11 @@
 # Raylib Pacman 🕹️
 
-A classic Pacman-style game built in **C** using the **raylib** library, developed as part of the basic Programming Course – fall 1403 at Amirkabir University of Technology.
-This project features multiple ghost types, power-ups (Apple, Mushroom, Pepper, Cherry), a custom map system, and a persistent high-score leaderboard.
+A classic Pacman-style game built in **C** using the **raylib** library:
+
+* developed as part of the basic Programming Course – fall 1403 at Amirkabir University of Technology.
+
+
+* This project features multiple ghost types, power-ups (Apple, Mushroom, Pepper, Cherry), a custom map system, and a persistent high-score leaderboard.
 
 ## ✨ Features
 * **Classic Gameplay:** Navigate the maze, collect points, and avoid ghosts.
