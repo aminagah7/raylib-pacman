@@ -1,13 +1,14 @@
-# C/C++ Compiled binaries
+# Compiled binaries
 *.exe
 *.o
-*.obj
 *.out
 
-# JetBrains / CLion
+# IDE files
+.vscode/
 .idea/
-cmake-build-debug/
+*.suo
+*.user
 
-# OS generated files
-.DS_Store
-Thumbs.db
+# Assets/Resources (Optional: only if they are very large)
+# If your resources/ folder is huge, you might want to host them elsewhere, 
+# but for a small game, it's usually fine to include them.
