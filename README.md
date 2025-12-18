@@ -27,18 +27,18 @@ Supervised by:
 
 ## 📸 Preview
 
-![Login Screenshot](\resources\Pac-Man1.png)
+![Login Screenshot](/resources/Pac-Man1.png)
 
 
-![Level Screenshot](\resources\Pac-Man2.png)
+![Level Screenshot](/resources/Pac-Man2.png)
 ## Map
 
-![Map1 Screenshot](\resources\Pac-Man3.png)
+![Map1 Screenshot](/resources/Pac-Man3.png)
 
 
-![Map2 Screenshot](\resources\Pac-Man4.png)
+![Map2 Screenshot](/resources/Pac-Man4.png)
 ## Game Over
-![Game Over Screenshot](\resources\Pac-Man5.png)
+![Game Over Screenshot](/resources/Pac-Man5.png)
 
 
 
@@ -48,13 +48,14 @@ Supervised by:
 ```bash
 git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
 cd YOUR_REPO_NAME
-2. Build using CMake (Recommended)
-Bash
-
+### 2. Build using CMake (Recommended)
+```bash
 mkdir build
 cd build
 cmake ..
-cmake --build .
+cmake --build . 
+
+
 3. Running the game
 Ensure the resources/ folder is in the same directory as your executable, then run:
 
